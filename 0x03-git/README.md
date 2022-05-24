@@ -1,4 +1,4 @@
 My first readme
 
 read me updating
-let's change rea me file
+let's change read me file
